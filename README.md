@@ -1,3 +1,3 @@
 # ubuntu-config
 
-Just run the script `set_up_all.sh`.
+Britton suggested using the cron to set this up. Right now like whatevs though
