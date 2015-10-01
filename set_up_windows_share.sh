@@ -4,3 +4,4 @@
 sudo mkdir /media/windows-share
 sudo mount -t vboxsf VirtualBox_Share /media/windows-share
 ln -s /media/windows-share/ ~/Desktop/WindowsShare
+ln -s /media/windows-share/ ~/WindowsShare
